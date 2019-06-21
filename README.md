@@ -5,5 +5,5 @@ https://github.com/nitor-infotech-oss/Useful-Website-Links-Various-Technolgies-/
 
 ## 2. Business Intelligence & Data Warehousing : 
 
-https://github.com/nitor-infotech-oss/Useful-Website-Links-Various-Technolgies-/wiki/Link-for-Business-Intelligence(BI)-&-Data-Warehouse(DW)
+https://github.com/nitor-infotech-oss/Useful-Website-Links-Various-Technolgies-/wiki/Links-for-Business-Intelligence(BI)-&-Data-Warehouse(DW)
 
