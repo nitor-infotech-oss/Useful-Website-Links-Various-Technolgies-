@@ -10,3 +10,11 @@ https://github.com/nitor-infotech-oss/Useful-Website-Links-Various-Technolgies-/
 ## 3. SQL Server Integration Services (SSIS) :
 
 https://github.com/nitor-infotech-oss/Useful-Website-Links-Various-Technolgies-/wiki/Links-for-SSIS
+
+## 4. Talend (ETL) : 
+
+https://github.com/nitor-infotech-oss/Useful-Website-Links-Various-Technolgies-/wiki/Links-for-Talend
+
+## 5. Java , Servlet, JSP, Spring, Struts2 and Hibernate : 
+
+https://github.com/nitor-infotech-oss/Useful-Website-Links-Various-Technolgies-/wiki/Links-for-Java,-Servlet,-JSP,-Spring-,-Struts2-and-Hibernate
