@@ -18,3 +18,7 @@ https://github.com/nitor-infotech-oss/Useful-Website-Links-Various-Technolgies-/
 ## 5. Java , Servlet, JSP, Spring, Struts2 and Hibernate : 
 
 https://github.com/nitor-infotech-oss/Useful-Website-Links-Various-Technolgies-/wiki/Links-for-Java,-Servlet,-JSP,-Spring-,-Struts2-and-Hibernate
+
+## 6. Python
+
+https://github.com/nitor-infotech-oss/Useful-Website-Links-Various-Technolgies-/wiki/Link-for-Python
