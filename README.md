@@ -22,3 +22,7 @@ https://github.com/nitor-infotech-oss/Useful-Website-Links-Various-Technolgies-/
 ## 6. Python
 
 https://github.com/nitor-infotech-oss/Useful-Website-Links-Various-Technolgies-/wiki/Link-for-Python
+
+## 7. C#
+
+https://github.com/nitor-infotech-oss/Useful-Website-Links-Various-Technolgies-/wiki/Links-for-C%23
